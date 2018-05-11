@@ -5,12 +5,12 @@
 /*Styles*/
 .nav-brand {
     font-family: 'Rubik Mono One', sans-serif;
-	color: white;
-	text-shadow: 2px 2px 2px red; 
+    color: white;
+    text-shadow: 2px 2px 2px red; 
 }
 
 .navbar-nav {
-	font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h2 {
