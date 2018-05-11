@@ -13,6 +13,11 @@
 	font-family: 'Montserrat', sans-serif;
 }
 
+h2 {
+   text-align: center;
+   margin:10px;
+}
+
 a.item-link {
 	font-family: 'Montserrat', sans-serif;
 	color: black;
